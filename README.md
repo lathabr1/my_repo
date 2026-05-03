@@ -1,7 +1,9 @@
-# Latha B R
+<h1 align="center">Latha B R</h1>
 
-Welcome to my GitHub profile.
+<p align="center">
+  Welcome to my GitHub Profile
+</p>
 
-Learning, building, and exploring new technologies.
-
-Thanks for visiting!
+<p align="center">
+  Learning • Building • Growing
+</p>
